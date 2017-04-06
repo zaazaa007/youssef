@@ -51,8 +51,8 @@ public class JPAConfig {
     public DozerBeanMapper getMapper() {
         return new DozerBeanMapper();
     }
-    void gtabc(){
-        
+    void gtabvc(){
+
     }
 
 }
